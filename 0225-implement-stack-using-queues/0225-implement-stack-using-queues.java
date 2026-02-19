@@ -5,17 +5,17 @@ class MyStack {
     }
     
     public void push(int x) {
-        q.offer(x);   // Step 1: add to queue
+        q.add(x);   // Step 1: add to queue
         int size = q.size();
 
         // Step 2: rotate the queue except the new element
         for (int i = 0; i < size - 1; i++) {
-            q.offer(q.poll());
+            q.add(q.remove());
         }
     }
     
     public int pop() {
-        return q.poll();  // front element
+        return q.remove();  // front element
     }
     
     public int top() {
