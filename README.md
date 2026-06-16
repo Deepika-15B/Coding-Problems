@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2079-watering-plants](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
