@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1020-number-of-enclaves](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
