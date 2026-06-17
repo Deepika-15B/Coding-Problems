@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/toggle-light-bulbs">4212. Toggle Light Bulbs</a></h2><h3>Easy</h3><hr><p>You are given an array <code>bulbs</code> of integers between 1 and 100.</p>
+<h2><a href="https://leetcode.com/problems/toggle-light-bulbs">3842. Toggle Light Bulbs</a></h2><h3>Easy</h3><hr><p>You are given an array <code>bulbs</code> of integers between 1 and 100.</p>
 
 <p>There are 100 light bulbs numbered from 1 to 100. All of them are switched off initially.</p>
 
