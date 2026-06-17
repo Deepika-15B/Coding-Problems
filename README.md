@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
