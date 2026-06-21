@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
