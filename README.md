@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1020-number-of-enclaves](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
