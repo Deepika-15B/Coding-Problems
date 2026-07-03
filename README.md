@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
