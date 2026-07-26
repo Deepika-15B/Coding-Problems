@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0904-fruit-into-baskets](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1020-number-of-enclaves](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Linked List
