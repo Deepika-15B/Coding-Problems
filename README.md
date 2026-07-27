@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1020-number-of-enclaves](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
