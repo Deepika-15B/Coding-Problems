@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0048-rotate-image) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
