@@ -1,7 +1,7 @@
 class Solution {
     public ArrayList<Integer> maxOfSubarrays(int[] arr, int k) {
         int n = arr.length;
-        ArrayList<Integer> ls = new ArrayList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
         PriorityQueue<int[]> pq = new PriorityQueue<>(
             (a, b) -> Integer.compare(b[0], a[0])
         );
@@ -11,10 +11,10 @@ class Solution {
                 pq.poll();
             }
             if (i >= k - 1) {
-                ls.add(pq.peek()[0]);
+                ans.add(pq.peek()[0]);
             }
         }
-        return ls;
+        return ans;
     }
 }
 
