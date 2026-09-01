@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2079-watering-plants](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2079-watering-plants) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Linked List
 |  |
