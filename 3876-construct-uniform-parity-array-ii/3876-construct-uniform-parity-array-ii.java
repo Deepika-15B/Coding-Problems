@@ -1,0 +1,29 @@
+class Solution {
+    public boolean uniformArray(int[] nums) {
+        int min = Integer.MAX_VALUE;
+        for(int i=0;i<nums.length;i++)
+        {
+            if(min>nums[i])
+            {
+                min = nums[i];
+            }
+        }
+        if(min%2 != 0)
+        {
+            return true;
+        }
+        else if (min%2==0)
+        {
+        for(int i: nums)
+        {
+            if(i%2!=0)
+               return false;
+        }
+        }
+        return true ;
+    }
+}
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
