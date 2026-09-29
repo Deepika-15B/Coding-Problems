@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1844-replace-all-digits-with-characters](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1844-replace-all-digits-with-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
