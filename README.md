@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
