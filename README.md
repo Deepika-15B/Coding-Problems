@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2942-find-words-containing-character](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1844-replace-all-digits-with-characters](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1844-replace-all-digits-with-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2942-find-words-containing-character](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
