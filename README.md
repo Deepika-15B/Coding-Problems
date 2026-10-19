@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2079-watering-plants](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3842-toggle-light-bulbs](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
