@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1518-water-bottles](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1518-water-bottles) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1518-water-bottles) |
 | [2079-watering-plants](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
