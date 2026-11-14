@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/special-array-i">3429. Special Array I</a></h2><h3>Easy</h3><hr><p>An array is considered <strong>special</strong> if the <em>parity</em> of every pair of adjacent elements is different. In other words, one element in each pair <strong>must</strong> be even, and the other <strong>must</strong> be odd.</p>
+<h2><a href="https://leetcode.com/problems/special-array-i">3151. Special Array I</a></h2><h3>Easy</h3><hr><p>An array is considered <strong>special</strong> if the <em>parity</em> of every pair of adjacent elements is different. In other words, one element in each pair <strong>must</strong> be even, and the other <strong>must</strong> be odd.</p>
 
 <p>You are given an array of integers <code>nums</code>. Return <code>true</code> if <code>nums</code> is a <strong>special</strong> array, otherwise, return <code>false</code>.</p>
 
