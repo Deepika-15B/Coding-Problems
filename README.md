@@ -370,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
